@@ -29,6 +29,7 @@ body{
 	float: left;
 	color: white;
 	margin-bottom: 1rem;
+	transition: linear 1s;
 }
 
 .content-block h1{
